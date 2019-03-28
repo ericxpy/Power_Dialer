@@ -1,2 +1,51 @@
-# Power_Dialer
-A web app for Epharmix that allows their call agents to call the patients
+# Power Dialer
+
+
+## Getting Started
+
+
+### Prerequisites
+
+- NodeJs: [https://nodejs.org](https://nodejs.org) Please go to the website and download the latest version and install.
+- ReactJs: [https://reactjs.org](https://reactjs.org) Please go to the website and download the latest version and install.
+
+### Installing
+- $ npm install --save react react-dom 
+- $ npm install --save react-bootstrap
+- $ npm install react-table
+- $ npm install react-upload-file -S
+
+
+## Running the tests
+- Please run $ npm start in front-end directory
+
+## Deployment
+
+
+## Built With
+
+### Front-end
+
+- We used React.js and Webpack for Front-end development.
+
+### Back-end
+
+- We used Python Flask for Back-end development.
+
+## Contributing
+
+
+## Versioning
+
+
+## Authors
+Peiyang Xu: Backend, DB and ML algorithm
+Xiuhao Wang: Frontend
+Freddy: Twilio API
+
+## License
+
+
+## Acknowledgments
+
+
